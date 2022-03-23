@@ -1,0 +1,15 @@
+{
+    "pages": [],
+    "window": {
+        "backgroundColor":"#b8163c",
+        "frame": "{{0, 0}, {414, 545}}"
+    },
+    "subPackages": [],
+    "networkTimeout": {
+        "request": 10000,
+        "connectSocket": 10000,
+        "uploadFile": 10000,
+        "downloadFile": 10000
+    },
+    "debug": false
+}
